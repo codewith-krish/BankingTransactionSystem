@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Banking Transaction Management System
 
 (Console-Based Core Java Project)
@@ -196,3 +197,6 @@ This project demonstrates the application of Core Java foundations such as OOP c
 
 
 
+=======
+# BankingTransactionSystem
+>>>>>>> deaa682d52155076ae9ba52540261c3829c823a3
